@@ -1,0 +1,47 @@
+# robots.txt for Snow Day Calculator
+# Optimized for search engine indexing and crawling
+
+# Allow all search engines to crawl the site
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://yourusername.github.io/snowday/sitemap.xml
+
+# Crawl-delay for respectful crawling (optional)
+# Crawl-delay: 1
+
+# Specific rules for major search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+# Block bad bots (optional - add known malicious bots)
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+# Instructions for updating this file:
+# 1. Replace "yourusername.github.io/snowday" with your actual GitHub Pages URL
+# 2. Update sitemap URL to match your domain
+# 3. Adjust crawl-delay if needed (currently commented out)
+# 4. Add or remove bot rules as needed for your use case
