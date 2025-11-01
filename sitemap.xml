@@ -1,55 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-    <!-- Homepage / Snow Day Calculator -->
-    <url>
-        <loc>https://yourusername.github.io/snowday/</loc>
-        <lastmod>2025-11-01</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
 
-    <!-- Main Calculator Page -->
-    <url>
-        <loc>https://yourusername.github.io/snowday/index.html</loc>
-        <lastmod>2025-11-01</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
+<url>
+  <loc>https://snowday-calculators.github.io/h/</loc>
+  <lastmod>2025-11-01T12:24:55+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://snowday-calculators.github.io/h/index.html</loc>
+  <lastmod>2025-11-01T12:24:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://snowday-calculators.github.io/h/about.html</loc>
+  <lastmod>2025-11-01T12:24:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://snowday-calculators.github.io/h/contact.html</loc>
+  <lastmod>2025-11-01T12:24:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://snowday-calculators.github.io/h/terms.html</loc>
+  <lastmod>2025-11-01T12:24:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://snowday-calculators.github.io/h/privacy.html</loc>
+  <lastmod>2025-11-01T12:24:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
 
-    <!-- About Us Page -->
-    <url>
-        <loc>https://yourusername.github.io/snowday/about.html</loc>
-        <lastmod>2025-11-01</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <!-- Contact Page -->
-    <url>
-        <loc>https://yourusername.github.io/snowday/contact.html</loc>
-        <lastmod>2025-11-01</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.7</priority>
-    </url>
-
-    <!-- Terms and Conditions -->
-    <url>
-        <loc>https://yourusername.github.io/snowday/terms.html</loc>
-        <lastmod>2025-11-01</lastmod>
-        <changefreq>yearly</changefreq>
-        <priority>0.5</priority>
-    </url>
-
-    <!-- Privacy Policy -->
-    <url>
-        <loc>https://yourusername.github.io/snowday/privacy.html</loc>
-        <lastmod>2025-11-01</lastmod>
-        <changefreq>yearly</changefreq>
-        <priority>0.5</priority>
-    </url>
 
 </urlset>
